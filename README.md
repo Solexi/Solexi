@@ -6,7 +6,7 @@ Frontend Developer
 
 I have been learning to code for 3 years. I am currently a 300-level Computer Science Undergraduate at Pan-Atlantic University. I have explored a few programming languages of which Python and Javascript are my favorites. I am passionate about Frontend Development and would also like to go into Mobile and Blockchain Development. I look forward to learning new things.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [ezehsophia4321@gmail.com](mailto:ezehsophia4321@gmail.com)
 * 🚀  I'm currently working on [my portfolio page](http://myportfolio)
 * 🧠  I'm learning Chakra-ui , Bootstrap, React-js and React-native
