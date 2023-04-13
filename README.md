@@ -53,7 +53,7 @@ src="https://img.shields.io/github/followers/Solexi?logo=github&style=for-the-ba
 
 <table>
   <tr>
-    <td><a href="http://www.github.com/Solexi"><img src="https://github-readme-stats.vercel.app/api?username=Solexi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFA559&text_color=D3D3D3&icon_color=FF8400&bg_color=0,000000,FF8400" alt="Solexi's GitHub stats" /></a>
+    <td><a href="http://www.github.com/Solexi"><img src="https://github-readme-stats.vercel.app/api?username=Solexi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFA559&text_color=D3D3D3&icon_color=FF8400&bg_color=0,000000,B8621B" alt="Solexi's GitHub stats" /></a>
     <td><a href="https://github.com/Solexi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solexi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=FF8400&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   </tr>
 </table>
