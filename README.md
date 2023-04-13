@@ -58,7 +58,7 @@ src="https://img.shields.io/github/followers/Solexi?logo=github&style=for-the-ba
 </table>
 
 <div align="left">
-<a href="http://www.github.com/Solexi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Solexi&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Solexi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Solexi&stroke=ffffff&background=1c1917&ring=FF6000&fire=FF6000&currStreakNum=ffffff&currStreakLabel=FF6000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 <!-- <a href="http://www.github.com/Solexi"><img src="https://activity-graph.herokuapp.com/graph?username=Solexi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
