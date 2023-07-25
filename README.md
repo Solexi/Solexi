@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I have been learning to code for 3 years. I am currently a 300-level Computer Science Undergraduate at Pan-Atlantic University. I have explored a few programming languages of which Python and Javascript are my favorites. I am passionate about Frontend Development and would also like to go into Mobile and Blockchain Development. I look forward to learning new things.
+I have been learning to code for 3 years. I am currently a 400-level Computer Science Undergraduate at Pan-Atlantic University. I have explored a few programming languages of which Python and Javascript are my favorites. I am passionate about Frontend Development and would also like to go into Mobile and Blockchain Development.
+I look forward to learning new things.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [ezehsophia4321@gmail.com](mailto:ezehsophia4321@gmail.com)
-* 🤝  I'm open to collaborating on Frontend projects and Mobile Devlopment projects using react-native
+* 🤝  I'm open to collaborating on Frontend projects and Mobile Development projects using react-native
 
 <a href="https://www.github.com/Solexi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Solexi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
