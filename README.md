@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/Solexi?logo=github&style=for-the-ba
 <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://img.stackshare.io/service/12421/rzylUjaf_400x400.jpg" width="36" height="36" alt="Chakra UI" /></a>
 </p>
 
-#### Other Languages, Tools and Frameworks I have worked with
+#### Other Languages, Tools, and Frameworks I have worked with
  
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
