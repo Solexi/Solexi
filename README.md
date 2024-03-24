@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I have been learning to code for 3 years. I am currently a 400-level Computer Science Undergraduate at Pan-Atlantic University. I have explored a few programming languages of which Python and Javascript are my favorites. I am passionate about Frontend Development and would also like to go into Mobile and Blockchain Development.
+I am a final year Computer Science Undergraduate with over 4 years of programming experience. I have explored a few programming languages of which Python and Javascript are my favorites. I am passionate about Frontend Development and would also like to go into Mobile Development and Machine Learning.
 I look forward to learning new things.
 
 * 🌍  I'm based in Lagos, Nigeria
