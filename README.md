@@ -1,15 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sophia Ezeh
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sophia Ezeh
 ===================================================================================================================================
 
 Software Developer
 ------------------
 
-I am a final year Computer Science Undergraduate with over 4 years of programming experience. I have explored a few programming languages of which Python and Javascript are my favorites. I am passionate about Frontend Development and would also like to go into Mobile Development and Machine Learning.
+I'm a **results-driven software engineer** with **a year of professional experience** in software development. I have explored a few programming languages of which Python and Javascript are my favorites. I am passionate about Frontend Development, about crafting and optimizing **user-friendly web solutions**.
 I look forward to learning new things.
 
-* 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [ezehsophia4321@gmail.com](mailto:ezehsophia4321@gmail.com)
-* 🤝  I'm open to collaborating on Frontend projects and Mobile Development projects using react-native
+* 🤝  **Open to Collaborate** on Open-source projects and AI research
 
 <a href="https://www.github.com/Solexi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Solexi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -27,7 +26,8 @@ src="https://img.shields.io/github/followers/Solexi?logo=github&style=for-the-ba
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://img.stackshare.io/service/12421/rzylUjaf_400x400.jpg" width="36" height="36" alt="Chakra UI" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 </p>
 
 #### Other Languages, Tools, and Frameworks I have worked with
@@ -45,21 +45,5 @@ src="https://img.shields.io/github/followers/Solexi?logo=github&style=for-the-ba
 
 <p align="left"> 
 <a href="https://www.github.com/Solexi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/solexi_ez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/sophia-ezeh-9884b6215/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.twitter.com/sophix_ezeh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<table>
-  <tr>
-    <td><a href="http://www.github.com/Solexi"><img src="https://github-readme-stats.vercel.app/api?username=Solexi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFA559&text_color=D3D3D3&icon_color=FF8400&bg_color=0,000000,B8621B" alt="Solexi's GitHub stats" /></a>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solexi&show_icons=true&locale=en&layout=compact&title_color=FFA559&text_color=D3D3D3&icon_color=FF8400&bg_color=0,000000,B8621B" alt="Top Languages" /></a>
-  </tr>
-</table>
-
-<div align="left">
-<a href="http://www.github.com/Solexi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Solexi&stroke=ffffff&background=1c1917&ring=FF6000&fire=FF6000&currStreakNum=ffffff&currStreakLabel=FF6000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
-
-
