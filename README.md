@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a **results-driven software engineer** with **a year of professional experience** in software development. I have explored a few programming languages of which Python and Javascript are my favorites. I am passionate about Frontend Development, about crafting and optimizing **user-friendly web solutions**.
+I'm a **results-driven software engineer** with **two years of professional experience** in software development. I have explored a few programming languages of which Python and Javascript are my favorites. I am passionate about Frontend Development, about crafting and optimizing **user-friendly web solutions**. I have also taken interest in AI Engineering and AI Automation, and I am exploring way in which AI can make lives easier while ensuring safety and user data security.
 I look forward to learning new things.
 
 * ✉️  You can contact me at [ezehsophia4321@gmail.com](mailto:ezehsophia4321@gmail.com)
